@@ -1,2 +1,1 @@
-# PreCourseHenry2
-PreCourse Activity - Repositorio de prueba numero 2 de Henry 
+Este texto es una pruena para aprender github
